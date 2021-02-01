@@ -1,6 +1,6 @@
 # ffmpeg-patchset_2020Q4
 
-2020Q4 FFmpeg patchset queuing in FFmpeg upstream for Intel platforms.
+2020Q4 FFmpeg patchset queuing in FFmpeg upstream for Intel platforms (mainline commit: 686c07fb1e0455c4205eaad18e8a01bf64058dec)
 
 Please integrate it with Intel Media stack 2020Q4 for Linux. For detailed information
 about new features and improvements, please check links below:
