@@ -8,6 +8,7 @@ about new features and improvements, please check links below:
 Media driver: intel-media-20.4.5
 
 Media SDK: intel-mediasdk-20.5.1
+
 Libva: 2.10.0
 
 Libva-utils: 2.10.0
